@@ -71,6 +71,24 @@ public class More_Trinkets {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
     if(event.getTabKey() == CreativeModeTabs.INGREDIENTS){
         event.accept(ModItems.Trinket1);
+        event.accept(ModItems.Trinket2);
+        event.accept(ModItems.Trinket3);
+        event.accept(ModItems.Trinket4);
+        event.accept(ModItems.Trinket5);
+        event.accept(ModItems.Trinket6);
+        event.accept(ModItems.Trinket7);
+        event.accept(ModItems.Trinket8);
+        event.accept(ModItems.Trinket9);
+        event.accept(ModItems.Trinket10);
+        event.accept(ModItems.Trinket11);
+        event.accept(ModItems.Trinket12);
+        event.accept(ModItems.Trinket13);
+        event.accept(ModItems.Trinket14);
+        event.accept(ModItems.Trinket15);
+        event.accept(ModItems.Trinket16);
+        event.accept(ModItems.Trinket17);
+        event.accept(ModItems.Trinket18);
+
     }
     }
 
